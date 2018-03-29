@@ -16,4 +16,8 @@ def speak_to_grandma(i_say)
   i_say_cap = i_say.upcase
   c = (i_say == i_say_cap)
   
+  if !c 
+    
+  end
+  
 end
